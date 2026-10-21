@@ -32,6 +32,13 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background: #fff7f8;
+  zoom: 0.82;
+}
+
+@media (max-width: 640px) {
+  body {
+    zoom: 1;
+  }
 }
 
 button,
