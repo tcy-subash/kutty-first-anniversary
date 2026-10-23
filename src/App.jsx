@@ -373,6 +373,12 @@ function App() {
               <div className="hero-art">
                 <div className="orbit orbit-one" />
                 <div className="orbit orbit-two" />
+                <img
+                  src="/images/love_sticker_animated.png"
+                  alt="Animated love sticker"
+                  className="hero-animated-sticker"
+                  width={240}
+                />
                 <div className="photo-polaroid">
                   <img
                     src="/photos/Slide1.jpeg"

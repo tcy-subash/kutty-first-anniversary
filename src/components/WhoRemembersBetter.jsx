@@ -215,7 +215,7 @@ export default function WhoRemembersBetter({ onNextSlide }) {
               />
               <Sparkles size={20} className="me-popup-sparkle" />
             </div>
-            <h3 id="me-popup-heading" className="me-popup-title">A Message From Me 💌</h3>
+            <h3 id="me-popup-heading" className="me-popup-title">Thambuduuu 💌</h3>
             <p className="me-popup-message">
               “Babbee, I remember you more than anything… yet still mining 😜😝😝”
             </p>
